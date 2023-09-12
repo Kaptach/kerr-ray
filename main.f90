@@ -1,5 +1,5 @@
 PROGRAM kerr_ray
   IMPLICIT NONE
-  
+  USE ray
 
 END PROGRAM
